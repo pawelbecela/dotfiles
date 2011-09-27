@@ -27,4 +27,8 @@ Useful Stuff
 
     chmod 700 .ssh
     chmod 600 .ssh/id_rsa
-    
+
+License
+=======
+
+[WTFPL](http://sam.zoy.org/wtfpl/COPYING "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE")
