@@ -1,0 +1,19 @@
+[user]
+	name = Jacek Becela
+	email = jacek.becela@gmail.com
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+[github]
+	user = ncr
+	token = fd9dc7d702e3a7d6e814323155d0dfbd
+[core]
+	excludesfile = /Users/ncr/.gitignore.global
+[push]
+	default = current
