@@ -1,11 +1,11 @@
-Bootstrap first!
-================
+Install
+=======
 
 1. Make sure you have Xcode installed.
 
 2. Copy & Paste to terminal:
 
-        git clone git@github.com:ncr/dotfiles.git ~/.dotfiles
+        git clone git://github.com/ncr/dotfiles.git ~/.dotfiles
         ./install.sh
         /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"
         brew install git
