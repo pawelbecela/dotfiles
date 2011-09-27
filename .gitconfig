@@ -12,7 +12,7 @@
   branch = auto
 [github]
 	user = ncr
-	token = fd9dc7d702e3a7d6e814323155d0dfbd
+	token = token = <.replace github-token>
 [core]
 	excludesfile = /Users/ncr/.gitignore.global
 [push]
